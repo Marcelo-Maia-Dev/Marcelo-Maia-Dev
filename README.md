@@ -1,16 +1,31 @@
-### Hi there 👋
+# Olá, me chamo Marcelo Maia ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**Marcelo-Maia-Dev/Marcelo-Maia-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Maia-Dev-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Maia-Dev-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-Here are some ideas to get you started:
+## Ferramentas e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/33229102/231632130-c6763a4f-3ef1-4152-a5b7-1335ae5e0222.png"/> <img src="https://user-images.githubusercontent.com/33229102/231632490-74748960-9cbd-44a5-a776-be0d0e700d70.png"/> <img src="https://user-images.githubusercontent.com/33229102/231632663-72ab108b-d987-4f15-86ad-9c581fb488d4.png"/> <img src="https://user-images.githubusercontent.com/33229102/231632793-7dcbc5ee-3287-48ad-be18-83fd5aeb856e.png"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+
+## Contatos:
+
+<div>
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/marcelo-maia-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+
+
+
