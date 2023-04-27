@@ -28,7 +28,7 @@ Entre as minhas qualidades profissionais, destaco a minha capacidade de analisar
 ## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/33229102/231632130-c6763a4f-3ef1-4152-a5b7-1335ae5e0222.png"/> <img src="https://user-images.githubusercontent.com/33229102/231632490-74748960-9cbd-44a5-a776-be0d0e700d70.png"/> <img src="https://user-images.githubusercontent.com/33229102/231632663-72ab108b-d987-4f15-86ad-9c581fb488d4.png"/> <img src="https://user-images.githubusercontent.com/33229102/231632793-7dcbc5ee-3287-48ad-be18-83fd5aeb856e.png"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-![postgresql](https://user-images.githubusercontent.com/33229102/234866295-86f258e5-51ab-4555-8356-0950adf69eb0.svg)
+
 
 
 
