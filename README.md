@@ -18,11 +18,6 @@ Entre as minhas qualidades profissionais, destaco a minha capacidade de analisar
   </a>
 </div>
 
-<div align='center'>
-  <a href="https://github.com/Marcelo-Maia-Dev">
-    <img height="175em" width="80%" src="http://github-readme-streak-stats.herokuapp.com?user=Marcelo-Maia-Dev&theme=dark" />
-  </a>
-</div>
   
 ##
 
