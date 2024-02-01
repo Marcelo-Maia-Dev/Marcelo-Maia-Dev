@@ -31,6 +31,11 @@ Entre as minhas qualidades profissionais, destaco a minha capacidade de analisar
 ![img icons8](https://user-images.githubusercontent.com/33229102/234870548-27772265-1602-4529-b03d-155c5553babc.png)
 ![img icons8](https://user-images.githubusercontent.com/33229102/234870663-629a1272-f8a9-4cb2-94ae-15a367468fa4.png)
 ![img icons8](https://user-images.githubusercontent.com/33229102/234871281-7988d05f-6088-466b-942b-d0bc457161ef.png)
+![img icons8](https://github.com/Marcelo-Maia-Dev/Marcelo-Maia-Dev/assets/33229102/eb3f9dd2-14c7-49b1-9f41-b112a136083d)
+![img icons8](https://github.com/Marcelo-Maia-Dev/Marcelo-Maia-Dev/assets/33229102/39085d58-6adf-4771-af32-1d4b6cfef0b8)
+![img icons8](https://github.com/Marcelo-Maia-Dev/Marcelo-Maia-Dev/assets/33229102/a703868d-3257-46ff-8ccf-2ab8263499b0)
+![img icons8](https://github.com/Marcelo-Maia-Dev/Marcelo-Maia-Dev/assets/33229102/bc7d4477-54c5-4e89-a21d-edfb770bbb5c)
+
 
 
 
