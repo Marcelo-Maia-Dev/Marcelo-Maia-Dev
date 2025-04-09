@@ -1,12 +1,23 @@
-# Olá, me chamo Marcelo Maia ! 
-## Bem vindo ao meu perfil GitHub! 👋
-
+# Olá, me chamo Marcelo Maia !  /  Hello, my name is Marcelo Maia!
+## Bem vindo ao meu perfil GitHub! 👋  /  Welcome to my GitHub profile! 👋
+## (PT-BR)
 Sou um desenvolvedor de software com foco em Python, modelos de Inteligência Artificial e Data Science. Tenho experiência trabalhando em projetos de desenvolvimento de software em diversas áreas, incluindo financeira, médica e de marketing.
 
 
 Durante minha trajetória profissional, desenvolvi habilidades em Python e outras tecnologias relacionadas a Data Science, como Pandas, Numpy e Scikit-Learn, que me permitem criar modelos de Machine Learning eficientes e precisos. Também tenho conhecimento em Big Data e em frameworks de Deep Learning, como TensorFlow e Keras.
 
 Entre as minhas qualidades profissionais, destaco a minha capacidade de analisar dados com precisão e de criar soluções inovadoras para problemas complexos. Sou comprometido com a qualidade do código e com a entrega de projetos no prazo estabelecido. Além disso, estou sempre em busca de novas ferramentas e técnicas para aprimorar a minha prática profissional.
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+## (EN)
+I am a software developer focused on Python, Artificial Intelligence models and Data Science. I have experience working on software development projects in several areas, including finance, medicine and marketing.
+
+During my professional career, I have developed skills in Python and other Data Science-related technologies, such as Pandas, Numpy and Scikit-Learn, which allow me to create efficient and accurate Machine Learning models. I also have knowledge of Big Data and Deep Learning frameworks, such as TensorFlow and Keras.
+
+Among my professional qualities, I highlight my ability to analyze data accurately and create innovative solutions to complex problems. I am committed to code quality and to delivering projects on time. In addition, I am always looking for new tools and techniques to improve my professional practice.
 
 &nbsp;
 &nbsp;
