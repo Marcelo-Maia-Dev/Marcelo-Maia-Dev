@@ -33,7 +33,7 @@ Among my professional qualities, I highlight my ability to analyze data accurate
 ##
 
 
-## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias  /  Tools and Technologies
 ![img icons8](https://user-images.githubusercontent.com/33229102/234871997-53eca4c0-2252-4b2e-80e0-2666aa6bcccd.png)
 ![img icons8](https://user-images.githubusercontent.com/33229102/234869987-a94518bd-f56c-420b-af43-f7b580a197e3.png)
 ![img icons8](https://user-images.githubusercontent.com/33229102/234870145-c343dee7-60e1-4336-bbc5-8f5893c6e3e6.png)
@@ -50,12 +50,12 @@ Among my professional qualities, I highlight my ability to analyze data accurate
 
 
 
-## Estou aprendendo
+## Estou aprendendo  /  I am learning
 
 ![img icons8](https://user-images.githubusercontent.com/33229102/234875305-22bf0202-79b2-4c7c-9379-fa9b127fccdd.png)
 
 
-## Contatos:
+## Contatos:  /  Contacts:
 
 <div>
 <a href = "mailto:marcelo.maia962@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
