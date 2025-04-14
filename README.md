@@ -1,23 +1,30 @@
 # Olá, me chamo Marcelo Maia !  /  Hello, my name is Marcelo Maia!
 ## Bem vindo ao meu perfil GitHub! 👋  /  Welcome to my GitHub profile! 👋
 ## (PT-BR)
-Sou um desenvolvedor de software com foco em Python, modelos de Inteligência Artificial e Data Science. Tenho experiência trabalhando em projetos de desenvolvimento de software em diversas áreas, incluindo financeira, médica e de marketing.
+Sou um desenvolvedor de software com uma base sólida em Python, Inteligência Artificial e Data Science, além de experiência prática em desenvolvimento web com HTML, CSS, JavaScript e C#. Atuo em projetos de diversas áreas, incluindo finanças, medicina e marketing, sempre focado em criar soluções inovadoras, eficientes e seguras.
 
+Tenho domínio de ferramentas e bibliotecas fundamentais para ciência de dados, como Pandas, Numpy e Scikit-Learn, e também experiência com Big Data e Deep Learning, utilizando frameworks como TensorFlow e Keras para a construção de modelos preditivos de alta performance.
 
-Durante minha trajetória profissional, desenvolvi habilidades em Python e outras tecnologias relacionadas a Data Science, como Pandas, Numpy e Scikit-Learn, que me permitem criar modelos de Machine Learning eficientes e precisos. Também tenho conhecimento em Big Data e em frameworks de Deep Learning, como TensorFlow e Keras.
+No desenvolvimento web, trabalho com a criação de interfaces modernas, responsivas e funcionais, utilizando boas práticas de design e usabilidade. Em C#, desenvolvo sistemas robustos no ecossistema .NET, incluindo integração com APIs, bancos de dados e aplicações desktop/web.
 
-Entre as minhas qualidades profissionais, destaco a minha capacidade de analisar dados com precisão e de criar soluções inovadoras para problemas complexos. Sou comprometido com a qualidade do código e com a entrega de projetos no prazo estabelecido. Além disso, estou sempre em busca de novas ferramentas e técnicas para aprimorar a minha prática profissional.
+Minha formação técnica é complementada por conhecimentos em segurança da informação, o que me permite aplicar práticas de codificação segura, realizar análises de vulnerabilidades e prevenir riscos comuns com base em diretrizes como o OWASP Top 10.
+
+Entre minhas principais qualidades estão a precisão na análise de dados, o comprometimento com a qualidade do código e a entrega pontual dos projetos. Estou constantemente aprendendo e acompanhando as tendências do setor para melhorar continuamente minha atuação profissional.
 
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 ## (EN)
-I am a software developer focused on Python, Artificial Intelligence models and Data Science. I have experience working on software development projects in several areas, including finance, medicine and marketing.
+I am a software developer with a solid foundation in Python, Artificial Intelligence and Data Science, as well as practical experience in web development with HTML, CSS, JavaScript and C#. I work on projects in several areas, including finance, medicine and marketing, always focused on creating innovative, efficient and secure solutions.
 
-During my professional career, I have developed skills in Python and other Data Science-related technologies, such as Pandas, Numpy and Scikit-Learn, which allow me to create efficient and accurate Machine Learning models. I also have knowledge of Big Data and Deep Learning frameworks, such as TensorFlow and Keras.
+I have mastery of fundamental tools and libraries for data science, such as Pandas, Numpy and Scikit-Learn, and also experience with Big Data and Deep Learning, using frameworks such as TensorFlow and Keras to build high-performance predictive models.
 
-Among my professional qualities, I highlight my ability to analyze data accurately and create innovative solutions to complex problems. I am committed to code quality and to delivering projects on time. In addition, I am always looking for new tools and techniques to improve my professional practice.
+In web development, I work on creating modern, responsive and functional interfaces, using good design and usability practices. In C#, I develop robust systems in the .NET ecosystem, including integration with APIs, databases and desktop/web applications.
+
+My technical background is complemented by knowledge in information security, which allows me to apply secure coding practices, perform vulnerability analyses and prevent common risks based on guidelines such as the OWASP Top 10.
+
+Among my main qualities are accuracy in data analysis, commitment to code quality and timely delivery of projects. I am constantly learning and following industry trends to continually improve my professional performance.
 
 &nbsp;
 &nbsp;
